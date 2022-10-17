@@ -1,4 +1,4 @@
-# MBID_visualizacion
+# MBID8_visual
 #
 # Primera Actividad Guiada 17/10/2022:
 #

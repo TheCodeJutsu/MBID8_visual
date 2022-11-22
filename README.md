@@ -8,3 +8,7 @@
 #                                                                                   Una usando un solo eje para la variable dependiente, sin escalado#
 #
 # Repositorio en StackBlitz:     https://stackblitz.com/@TheCodeJutsu  
+#
+# Tercera Actividad Guiada 21/112022:
+#
+# El archivo contiene la activividad de visualización desarrollada en Jupiter Notebook teniendo en cuenta lo establecido en la asignatura

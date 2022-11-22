@@ -9,6 +9,6 @@
 #
 # Repositorio en StackBlitz:     https://stackblitz.com/@TheCodeJutsu  
 #
-# Tercera Actividad Guiada 21/112022:
+# Tercera Actividad Guiada 21/11/2022:
 #
 # El archivo contiene la activividad de visualización desarrollada en Jupiter Notebook teniendo en cuenta lo establecido en la asignatura
